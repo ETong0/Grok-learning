@@ -1,0 +1,20 @@
+h1{
+  width:625px;
+  font-size:96px;
+  line-height: 0.8;
+  color:rgb(41, 68, 71);
+}
+h2{
+  width:625px;
+  background-color:rgb(236, 204, 156);
+  text-align:center;
+}
+h3{
+  width:625px;
+  color:rgb(134, 103, 49);
+}
+span{
+  background-color:rgb(41, 68, 71);
+  color:rgb(236, 204, 156);
+  font-size:50px;
+}
