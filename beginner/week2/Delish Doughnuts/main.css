@@ -1,0 +1,23 @@
+h1{
+  margin:0;
+  text-align:center;
+  background-color:#f18dbe;
+  color:white;
+  font-size:100px;
+}
+p{
+  width: 600px;
+  margin: 50px 212px;
+  color:#f18dbe;
+  font-size:22px;
+  text-align:center;
+}
+
+img{
+  width:1024px;
+}
+
+span{
+  font-size:60px;
+  font-weight:bold;
+}
