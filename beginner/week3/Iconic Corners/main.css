@@ -1,0 +1,21 @@
+
+
+body{
+  width:350px;
+}
+
+P{
+  background-color:rgb(120, 186, 236);
+  padding:20px;
+  padding-bottom:10px;
+  text-align:center;
+  margin:10px;
+  border-radius:30px;
+  font-size:48px;
+  font-weight:700;
+  color:white;
+    width:220px;
+}
+
+img{
+}
