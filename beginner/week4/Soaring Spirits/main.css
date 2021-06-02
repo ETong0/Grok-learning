@@ -1,0 +1,24 @@
+.header{
+  background-color:#ffdab9;
+  color:white;
+}
+
+.navigation{
+  background-color:#cedddf;
+}
+
+.popular-post{
+  background-color:#cedddf;
+}
+
+.featured{
+  width:501px;
+}
+
+.thumbnail{
+  width:399px;
+}
+
+.quote{
+  margin:70px 0;
+}
